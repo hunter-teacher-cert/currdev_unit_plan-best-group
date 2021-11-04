@@ -4,7 +4,7 @@ by Benson Leung and Michelle Best
 -----
 
 ## General Overview
-This will be a project-based unit that will occur right after an introduction to Python.  The students have previously learned how to create print/assignment statements, debugging techniques, expressions, pseudo code, and different variable types.  Throughout this unit, students will learn about if statements, loops, arrays, and lists.  Using this knowledge combined with their previous knowledge, students will be able to create their own games.  The goal of this unit is to create a collection of mini-games inside a bigger game board, similar to Mario Party.  After completion, students will be able to share their projects with their classmates, who will play and provide feedback to improve the game.
+This will be a project-based unit that will occur right after an introduction to P5-JS.  The students have previously learned how to create print/assignment statements, debugging techniques, expressions, pseudo code, and different variable types.  Throughout this unit, students will learn about if statements, loops, arrays, and lists.  Using this knowledge combined with their previous knowledge, students will be able to create their own games.  The goal of this unit is to create a collection of mini-games inside a bigger game board, similar to Mario Party.  After completion, students will be able to share their projects with their classmates, who will play and provide feedback to improve the game.
 Grade level: 6/7
 
 ---
