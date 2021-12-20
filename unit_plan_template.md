@@ -96,8 +96,9 @@ SEE CHART BELOW:
 | 6           | Functions/classes/constructors            
 | 7           | Exploration of Games/Identify Elements    
 | 8           | Tiered Game Project - create/compile game  
-| 9           | Debug Game 
-| 10          | Playthe games  & Evaluate 
+| 9           | Debug Game
+ 
+| 10          | Playthe games and evaluate 
 
 
 ## Assessments
