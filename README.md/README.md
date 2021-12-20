@@ -103,3 +103,6 @@ The final project is the summative assessment.
 
 Formative assessments is daily teacher observation are the compiled code at the end of each lesson.
 
+### Homework 
+Being mindful of the possible challenges families and students face with having fuctioning computers, shared computers, and intermittent or no internet connection, no homework will be administered throughout the course of this unit. Assignments will be completed in school. 
+
