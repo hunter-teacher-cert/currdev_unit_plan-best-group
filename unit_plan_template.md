@@ -97,7 +97,7 @@ SEE CHART BELOW:
 | 7           | Exploration of Games/Identify Elements    
 | 8           | Tiered Game Project - create/compile game  
 | 9           | Debug Game 
-    | 10          | Playthe games  & Evaluate 
+####### 10          | Playthe games  & Evaluate 
 
 
 ## Assessments
