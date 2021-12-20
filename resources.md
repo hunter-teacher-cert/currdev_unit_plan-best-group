@@ -20,4 +20,6 @@
 
 ##### Teacher:
 
-[g. P5 Reference List](https://p5js.org/reference/)
+[g. P5 Reference List 1](https://p5js.org/reference/)
+
+[h. p5 Reference List 2] (https://www.codecademy.com/learn/learn-p5js/modules/p5js-introduction-to-creative-coding/cheatsheet)
