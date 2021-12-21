@@ -85,19 +85,19 @@ Total length: 2 Weeks
 SEE CHART BELOW:
 
 
-| Lesson      | Skills/Main Topic Required               | 
-| :---                |    :----:   |          ---:         
-| 1           | Unplugged Activity: & Variables             
-| 2           | Background               
-| 3           | Shapes                          
-| 4           | Mouse Interaction                     
-| 5           | if statments/loops                        
-| 6           | Functions/classes/constructors            
-| 7           | Exploration of Games/Identify Elements    
-| 8           | Tiered Game Project - create/compile game  
-| 9           | Debug Game
 
-| 10          | Playthe games and evaluate 
+| Lesson      | Skills/Main Topic Required               | Standard
+| :---                |    :----:   |          ---:         
+| 1           | Unplugged Activity: & Variables         |7-8.CT.7    
+| 2           | Background               | 7-8.CT.4
+| 3           | Shapes                       |   7-8.CT.4
+| 4           | Conditionals             |      7-8.CT.8  
+| 5           | Mouse Interactions             |   7-8.CT.5    
+| 6           | Functions/ CLasses |   7-8.CT.8       
+| 7           | Exploration of Games/Identify Elements | 7-8.CT.1  
+| 8           | Tiered Game Project - create/compile game | 7-8.CT.7 
+| 9           | Debug Game |7-8.CT.9
+| 10          | Playthe games and evaluate | All of above
 
 
 ## Assessments
@@ -105,6 +105,6 @@ The final project is the summative assessment.
 
 Formative assessments is daily teacher observation are the compiled code at the end of each lesson.
 
+
 ### Homework 
 Being mindful of the possible challenges families and students face with having fuctioning computers, shared computers, and intermittent or no internet connection, no homework will be administered throughout the course of this unit. Assignments will be completed in school. 
-
