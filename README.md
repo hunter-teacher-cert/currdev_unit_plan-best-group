@@ -88,7 +88,7 @@ SEE CHART BELOW:
 
 | Lesson      | Skills/Main Topic Required               | Standard
 | :---                |    :----:   |          ---:         
-| 1           | Unplugged Activity: & Variables         |7-8.CT.7    
+| 1           | Introduction and variables        |7-8.CT.7    
 | 2           | Background               | 7-8.CT.4
 | 3           | Shapes                       |   7-8.CT.4
 | 4           | Conditionals             |      7-8.CT.8  
@@ -97,7 +97,7 @@ SEE CHART BELOW:
 | 7           | Exploration of Games/Identify Elements | 7-8.CT.1  
 | 8           | Tiered Game Project - create/compile game | 7-8.CT.7 
 | 9           | Debug Game |7-8.CT.9
-| 10          | Playthe games and evaluate | All of above
+| 10          | Play the games and evaluate | All of above
 
 
 ## Assessments
